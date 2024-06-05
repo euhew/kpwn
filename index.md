@@ -1,6 +1,10 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
+title: Witaj
 layout: home
+description: Największa Polska Kolekcja Stron i Programów, aby mieć Prywatność w Internecie.
+
+
 
 hero:
   name: "kpwn"
@@ -20,12 +24,12 @@ hero:
 features:
   - icon: 💻
     title: Strony
-    details: Przydatne Strony/Programy aby mieć Prywatność w Sieci
+    details: Przydatne Strony/Programy, aby mieć Prywatność w Sieci.
   - icon: 📺
     title:   Anime/Filmy/Seriale
-    details: Przydatne Strony aby Oglądać Filmy,Seriale i Anime za darmo
+    details: Przydatne Strony, aby Oglądać Filmy, Seriale i Anime za darmo
   - icon: 📚
     title:  Ksziąszki,Mangi i Komiksy
-    details: Przydatne Strony aby poczytać mangi,komiksy i ksziąszki po polsku za darmo
+    details: Przydatne Strony aby poczytać mangi,komiksy i Książki po polsku za darmo
 ---
 
