@@ -29,7 +29,7 @@ features:
     title:   Anime/Filmy/Seriale
     details: Przydatne Strony, aby Oglądać Filmy, Seriale i Anime za darmo
   - icon: 📚
-    title:  Ksziąszki,Mangi i Komiksy
+    title:  Książki,Mangi i Komiksy
     details: Przydatne Strony aby poczytać mangi,komiksy i Książki po polsku za darmo
 ---
 
